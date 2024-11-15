@@ -145,7 +145,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "todo-rust"
+name = "todo_rust"
 version = "0.1.0"
 dependencies = [
  "clap",
